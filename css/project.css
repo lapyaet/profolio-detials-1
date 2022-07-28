@@ -123,6 +123,11 @@
         width: 100%;
     }
 
+    
+    .project__container-item2-box p {
+        padding-right: 2rem;
+    }
+
     .project__container-item2-bottom {
         margin: 3rem 0;
     }
